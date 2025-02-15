@@ -33,8 +33,6 @@ Below is a screenshot of the web interface of the application:
    git clone https://github.com/your-repo/movie-recommender.git  
    cd movie-recommender  
 2. Navigate to the correct directory and install the requirements
-   1. Install the requirements
-
    ```
    $ pip install -r requirements.txt
    ```
