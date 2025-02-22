@@ -58,6 +58,6 @@ Below is a screenshot of the web interface of the application:
 
 ## 📚 <u>Lessons Learned and Exposures</u>
 <ol>
-   <li>Understood how cosine similarity works in recommendation sysrtems</li>
+   <li>Understood how cosine similarity works in recommendation systems</li>
    <li>NLP techniques such as TF-IDF vectorizations</li>
 </ol>
